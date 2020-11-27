@@ -1,0 +1,7 @@
+{
+  "name": "Ciasteczka",
+  "description": "Ogólnie to tak - wykrada pliki cookies, to tyle.",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "content_scripts": 0
+}

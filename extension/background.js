@@ -1,5 +1,4 @@
 (function() {
-    //your background stuffs happen
     let tabId;
 
     chrome.tabs.onActivated.addListener(function(tab) {
